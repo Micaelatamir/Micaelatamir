@@ -45,7 +45,7 @@
 ### 💌 Contato
 
 - ✉ E-mail: micaela@email.com
-- 💼 [LinkedIn](https://linkedin.com/in/seuusuario)
+- 💼 [LinkedIn](www.linkedin.com/in/micaela-tamires-aa320b312)
 - 🌐 Portfólio (em breve)
 
 ---
