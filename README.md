@@ -32,14 +32,18 @@
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=micaelatamir&show_icons=true&theme=purple" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelatamir&layout=compact&theme=purple" />
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=micaelatamir&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelatamir&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 💌 Contato
