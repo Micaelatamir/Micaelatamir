@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! Eu sou a Micaela 👩‍💻</h1>
+<h1 align="center">Olá! Eu sou a Micaela 👩🏻‍💻</h1>
 
 <p align="center">
   Estudante de Engenharia de Software | Focada em Back-end | Apaixonada por tecnologia e inovação 💜
