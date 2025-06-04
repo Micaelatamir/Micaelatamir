@@ -35,9 +35,9 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=purple" />
+  <img src="https://github-readme-stats.vercel.app/api?username=micaelatamir&show_icons=true&theme=purple" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelatamir&layout=compact&theme=purple" />
 </p>
 
 ---
