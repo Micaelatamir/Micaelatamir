@@ -2,14 +2,14 @@
 <h1 align="center">Olá! Eu sou a Micaela 👩🏻‍💻</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software | Focada em Back-end | Apaixonada por tecnologia e inovação 💜
+ Focada em Back-end | Apaixonada por tecnologia e inovação 💜
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software
+- 🎓 Cursando Engenharia de Software
 - 🚀 Foco principal: desenvolvimento back-end
 - 🌱 Atualmente estudando: Spring Boot, Docker e PostgreSQL
 - 🎯 Objetivo: criar soluções inteligentes e conquistar meu espaço na tecnologia
