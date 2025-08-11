@@ -11,7 +11,7 @@
 
 - 🎓 Cursando Engenharia de Software
 - 🚀 Foco principal: desenvolvimento back-end
-- 🌱 Atualmente estudando: Go, Spring Boot e PostgreSQL
+- 🌱 Atualmente estudando: Go, Spring Boot e MySQL
 - 🎯 Objetivo: criar soluções inteligentes e conquistar meu espaço na tecnologia
 
 ---
