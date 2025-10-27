@@ -46,7 +46,7 @@
 
 - ✉ E-mail: micaela.tamir@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/micaela-tamires-aa320b312/)
-- 🌐 Portfólio ( https://micaelatamir.github.io/Meu-portifolio)
+- 🌐 Portfólio (https://micaelatamir.github.io/Meu-portiif-lio/)
 
 ---
 
