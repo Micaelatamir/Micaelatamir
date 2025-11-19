@@ -11,7 +11,7 @@
 
 - 🎓 Cursando Engenharia de Software
 - 🚀 Foco principal: desenvolvimento back-end
-- 🌱 Atualmente estudando: MySQL e PostgreSQL
+- 🌱 Atualmente estudando: Django, MySQL e Python 
 - 🎯 Objetivo: criar soluções inteligentes e conquistar meu espaço na tecnologia
 
 ---
