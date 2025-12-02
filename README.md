@@ -31,10 +31,16 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img width="53%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Micaelatamir&theme=tokyonight" />
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Micaelatamir&layout=compact&langs_count=10&theme=tokyonight" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Micaelatamir&theme=tokyonight" />
 </p>
+
+## 💜 Linguagens Mais Usadas
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Micaelatamir&layout=compact&langs_count=10&theme=tokyonight" />
+</p>
+
+
 
 
 
