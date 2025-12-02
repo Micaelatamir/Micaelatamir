@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Olá! Eu sou a Micaela 👩🏻‍💻</h1>
 
 <p align="center">
@@ -30,29 +29,25 @@
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Micaelatamir&theme=tokyonight" />
-</p>
-
-## 💜 Linguagens Mais Usadas
-
-<p align="center">
+<table>
+  <tr>
+    <td>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Micaelatamir&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas GitHub" />
+    </td>
+    <td>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Micaelatamir&layout=compact&langs_count=10&theme=tokyonight" />
-</p>
-
-
-
-
+    </td>
+  </tr>
+</table>
 
 ### 💌 Contato
 
 - ✉ E-mail: micaela.tamir@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/micaela-tamires-aa320b312/
-- 🌐 Portfólio: https://micaelatamir.github.io/Meu-portiif-lio/
+- 💼 [LinkedIn](https://www.linkedin.com/in/micaela-tamires-aa320b312/)
+- 🌐 Portfólio (https://micaelatamir.github.io/Meu-portiif-lio/)
 
 ---
 
 <p align="center">
   🌟 “Código é poesia. E eu tô escrevendo a minha história linha por linha.” 🌟
 </p>
-
