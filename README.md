@@ -11,7 +11,7 @@
 
 - 🎓 Cursando Engenharia de Software
 - 🚀 Foco principal: desenvolvimento back-end
-- 🌱 Atualmente estudando: Django, MySQL e Python 
+- 🌱 Atualmente estudando:  AWS
 - 🎯 Objetivo: criar soluções inteligentes e conquistar meu espaço na tecnologia
 
 ---
@@ -19,12 +19,10 @@
 ### 🚀 Tecnologias que utilizo
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
 ## 📊 Estatísticas
