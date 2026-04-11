@@ -1,11 +1,9 @@
 
 <h1 align="center">Olá! Eu sou a Micaela 👩🏻‍💻</h1>
 
-<p align="center">
- Focada em Back-end | Apaixonada por tecnologia e inovação 💜
+<p align="left">
+  <img src="https://img.shields.io/badge/Back--end%20Developer-30363D?style=for-the-badge&labelColor=0D1117" />
 </p>
-
----
 
 ### 🧠 Sobre mim
 
@@ -24,6 +22,77 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
+## 📌 Projetos em Destaque
+
+### 📦 Order Management API
+
+Sistema de gerenciamento de pedidos com relacionamento entre usuários, desenvolvido com foco em organização, escalabilidade e boas práticas de back-end.
+
+---
+
+### 🗄️ Banco de Dados (PostgreSQL)
+
+Estrutura baseada em relacionamento entre entidades:
+
+- **Users** — cadastro de usuários  
+- **Orders** — pedidos vinculados aos usuários  
+
+**Relacionamento:**
+- Um usuário pode possuir múltiplos pedidos  
+
+---
+
+### ⚙️ Backend (Java + Spring Boot)
+
+Estrutura organizada em arquitetura em camadas:
+
+- **Controller** — gerenciamento das requisições HTTP  
+- **Service** — regras de negócio  
+- **Repository** — acesso ao banco de dados  
+- **Model** — representação das entidades  
+
+---
+
+### 🔌 Endpoints da API
+
+- `POST /users` — criação de usuários  
+- `GET /users` — listagem de usuários  
+- `POST /orders` — criação de pedidos  
+- `GET /orders` — listagem de pedidos  
+
+---
+
+### 🧠 Conceitos aplicados
+
+- Separação de responsabilidades  
+- Arquitetura em camadas  
+- Modelagem relacional  
+- Construção de APIs REST  
+
+---
+
+### 🔄 Evolução do projeto
+
+- Autenticação com JWT  
+- Validações de dados  
+- Tratamento global de exceções  
+- Implementação de DTOs  
+- Documentação com Swagger  
+
+---
+
+### ▶️ Execução do projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/Micaelatamir/order-management-api.git
+
+# Acesse a pasta do projeto
+cd order-management-api
+
+# Execute a aplicação
+./mvnw spring-boot:run
+```
 
 ## 📊 Estatísticas
 
