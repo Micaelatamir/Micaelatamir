@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Back--end%20Developer-000000?style=for-the-badge&labelColor=000000&color=000000" />
 </p>
+
 ## 🧠 Sobre mim
 
 Desenvolvedora focada em back-end, com experiência na construção de APIs REST utilizando Java e Spring Boot.
