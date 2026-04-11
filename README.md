@@ -3,15 +3,13 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Back--end%20Developer-000000?style=for-the-badge&labelColor=000000&color=000000" />
 </p>
-
 ## 🧠 Sobre mim
 
 Desenvolvedora focada em back-end, com experiência na construção de APIs REST utilizando Java e Spring Boot.
 
 Atuo com modelagem de sistemas, organização em arquitetura em camadas e desenvolvimento de soluções com foco em clareza de código, escalabilidade e boas práticas de engenharia de software.
 
-Possuo familiaridade com bancos de dados relacionais e integração entre serviços, com evolução contínua em tecnologias de nuvem, incluindo AWS.
----
+Possuo familiaridade com bancos de dados relacionais e integração entre serviços, além de evolução contínua em Cloud Computing, com foco em AWS.
 
 ### 🚀 Tecnologias que utilizo
 
