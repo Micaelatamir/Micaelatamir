@@ -4,13 +4,13 @@
   <img src="https://img.shields.io/badge/Back--end%20Developer-000000?style=for-the-badge&labelColor=000000&color=000000" />
 </p>
 
-🧠 Sobre mim
+## 🧠 Sobre mim
 
-- 🎓 Cursando Engenharia de Software
-- 🚀 Foco principal: desenvolvimento back-end
-- 🌱 Atualmente estudando:  AWS
-- 🎯 Objetivo: criar soluções inteligentes e conquistar meu espaço na tecnologia
+Desenvolvedora focada em back-end, com experiência na construção de APIs REST utilizando Java e Spring Boot.
 
+Atuo com modelagem de sistemas, organização em arquitetura em camadas e desenvolvimento de soluções com foco em clareza de código, escalabilidade e boas práticas de engenharia de software.
+
+Possuo familiaridade com bancos de dados relacionais e integração entre serviços, com evolução contínua em tecnologias de nuvem, incluindo AWS.
 ---
 
 ### 🚀 Tecnologias que utilizo
