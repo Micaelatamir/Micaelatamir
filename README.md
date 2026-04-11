@@ -1,11 +1,10 @@
 
 # 👩🏻‍💻 Micaela Tamires 
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Back--end%20Developer-30363D?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Back--end%20Developer-000000?style=for-the-badge&labelColor=000000&color=000000" />
 </p>
-
-### 🧠 Sobre mim
+### 
+🧠 Sobre mim
 
 - 🎓 Cursando Engenharia de Software
 - 🚀 Foco principal: desenvolvimento back-end
@@ -17,14 +16,14 @@
 ### 🚀 Tecnologias que utilizo
 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF3B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-00C853?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2979FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00ACC1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF1744?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8E24AA?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6D00?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00B0FF?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📌 Projetos em Destaque
 
@@ -39,10 +38,15 @@ Sistema de gerenciamento de pedidos com relacionamento entre usuários, desenvol
 Estrutura baseada em relacionamento entre entidades:
 
 - **Users** — cadastro de usuários  
-- **Orders** — pedidos vinculados aos usuários  
+- **Products** — produtos disponíveis no sistema  
+- **Orders** — pedidos realizados pelos usuários  
+- **Order_Items** — itens que compõem cada pedido  
 
-**Relacionamento:**
+**Relacionamentos:**
+
 - Um usuário pode possuir múltiplos pedidos  
+- Um pedido pode conter múltiplos itens  
+- Cada item está vinculado a um produto  
 
 ---
 
