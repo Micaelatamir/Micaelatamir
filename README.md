@@ -26,80 +26,19 @@ Possuo familiaridade com bancos de dados relacionais e integração entre servi�
 
 ## 📌 Projetos em Destaque
 
-### 📦 Order Management API
+## 📌 Projetos em Destaque
 
-Sistema de gerenciamento de pedidos com relacionamento entre usuários, desenvolvido com foco em organização, escalabilidade e boas práticas de back-end.
+### 🤖 [Internal AI Chat](https://github.com/Micaelatamir/internal-ai-chat)
+ChatGPT interno com Java, Spring Boot, OpenFeign e Groq API.
 
----
+### 📦 [Order Management API](https://github.com/Micaelatamir/order-management-api)
+API REST de gerenciamento de pedidos com Java e Spring Boot.
 
-### 🗄️ Banco de Dados (PostgreSQL)
+### 🔐 [Sistema de Login com Senha Criptografada](https://github.com/Micaelatamir/Sistema-de-Login-com-Senha-Criptografada)
+Autenticação segura com senha criptografada em Java.
 
-Estrutura baseada em relacionamento entre entidades:
-
-- **Users** — cadastro de usuários  
-- **Products** — produtos disponíveis no sistema  
-- **Orders** — pedidos realizados pelos usuários  
-- **Order_Items** — itens que compõem cada pedido  
-
-**Relacionamentos:**
-
-- Um usuário pode possuir múltiplos pedidos  
-- Um pedido pode conter múltiplos itens  
-- Cada item está vinculado a um produto  
-
----
-
-### ⚙️ Backend (Java + Spring Boot)
-
-Estrutura organizada em arquitetura em camadas:
-
-- **Controller** — gerenciamento das requisições HTTP  
-- **Service** — regras de negócio  
-- **Repository** — acesso ao banco de dados  
-- **Model** — representação das entidades  
-
----
-
-### 🔌 Endpoints da API
-
-- `POST /users` — criação de usuários  
-- `GET /users` — listagem de usuários  
-- `POST /orders` — criação de pedidos  
-- `GET /orders` — listagem de pedidos  
-
----
-
-### 🧠 Conceitos aplicados
-
-- Separação de responsabilidades  
-- Arquitetura em camadas  
-- Modelagem relacional  
-- Construção de APIs REST  
-
----
-
-### 🔄 Evolução do projeto
-
-- Autenticação com JWT  
-- Validações de dados  
-- Tratamento global de exceções  
-- Implementação de DTOs  
-- Documentação com Swagger  
-
----
-
-### ▶️ Execução do projeto
-
-```bash
-# Clone o repositório
-git clone https://github.com/Micaelatamir/order-management-api.git
-
-# Acesse a pasta do projeto
-cd order-management-api
-
-# Execute a aplicação
-./mvnw spring-boot:run
-```
+### 💰 [Sistema Controle de Despesas](https://github.com/Micaelatamir/sistema-controle-despesas-com-login)
+Sistema de controle financeiro com login em Java.
 
 ## 📊 Estatísticas
 
