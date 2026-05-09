@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Back--end%20Developer-000000?style=for-the-badge&labelColor=000000&color=000000" />
 </p>
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Desenvolvedora focada em back-end, com experiência na construção de APIs REST utilizando Java e Spring Boot.
 
@@ -27,16 +27,16 @@ Possuo familiaridade com bancos de dados relacionais e integração entre servi�
 
 ## 📌 Projetos em Destaque
 
-### 🤖 [Internal AI Chat](https://github.com/Micaelatamir/internal-ai-chat)
+### [Internal AI Chat](https://github.com/Micaelatamir/internal-ai-chat)
 ChatGPT interno com Java, Spring Boot, OpenFeign e Groq API.
 
-### 📦 [Order Management API](https://github.com/Micaelatamir/order-management-api)
+### [Order Management API](https://github.com/Micaelatamir/order-management-api)
 API REST de gerenciamento de pedidos com Java e Spring Boot.
 
-### 🔐 [Sistema de Login com Senha Criptografada](https://github.com/Micaelatamir/Sistema-de-Login-com-Senha-Criptografada)
+### [Sistema de Login com Senha Criptografada](https://github.com/Micaelatamir/Sistema-de-Login-com-Senha-Criptografada)
 Autenticação segura com senha criptografada em Java.
 
-### 💰 [Sistema Controle de Despesas](https://github.com/Micaelatamir/sistema-controle-despesas-com-login)
+### [Sistema Controle de Despesas](https://github.com/Micaelatamir/sistema-controle-despesas-com-login)
 Sistema de controle financeiro com login em Java.
 
 ## 📊 Estatísticas
@@ -55,8 +55,8 @@ Sistema de controle financeiro com login em Java.
 ### 💌 Contato
 
 - ✉ E-mail: micaela.tamir@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/micaela-tamires-aa320b312/)
-- 🌐 Portfólio (https://micaelatamir.github.io/Meu-portiif-lio/)
+- 💼 [LinkedIn]https://www.linkedin.com/in/micaela-tamires-aa320b312/
+- 🌐 Portfólio https://micaelatamir.github.io/Meu-portiif-lio/
 
 ---
 
