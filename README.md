@@ -60,6 +60,4 @@ Sistema de controle financeiro com login em Java.
 
 ---
 
-<p align="center">
-  🌟 “Código é poesia. E eu tô escrevendo a minha história linha por linha.” 🌟
-</p>
+
