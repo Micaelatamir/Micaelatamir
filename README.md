@@ -24,7 +24,6 @@ Possuo familiaridade com bancos de dados relacionais e integração entre servi�
 ![Postman](https://img.shields.io/badge/Postman-FF6D00?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-00B0FF?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📌 Projetos em Destaque
 
 ## 📌 Projetos em Destaque
 
