@@ -1,62 +1,67 @@
+# 👩🏻‍💻 Micaela Tamires
 
-# 👩🏻‍💻 Micaela Tamires 
 <p align="left">
   <img src="https://img.shields.io/badge/Back--end%20Developer-000000?style=for-the-badge&labelColor=000000&color=000000" />
 </p>
 
-## Sobre mim
+## About Me
 
-Desenvolvedora focada em back-end, com experiência na construção de APIs REST utilizando Java e Spring Boot.
+Backend developer focused on building REST APIs with **Java** and **Spring Boot**.
 
-Atuo com modelagem de sistemas, organização em arquitetura em camadas e desenvolvimento de soluções com foco em clareza de código, escalabilidade e boas práticas de engenharia de software.
+I work with system modeling, layered architecture, and backend solutions with a focus on clean code, scalability, and software engineering best practices. Currently expanding my knowledge in **Cloud Computing** with AWS and containerization with Docker.
 
-Possuo familiaridade com bancos de dados relacionais e integração entre serviços, além de evolução contínua em Cloud Computing, com foco em AWS.
+---
 
-### 🚀 Tecnologias que utilizo
-
+##  Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-FF3B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-00C853?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-00C853?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2979FF?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00ACC1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00B0FF?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF1744?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-8E24AA?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6D00?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00B0FF?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
-### [Internal AI Chat](https://github.com/Micaelatamir/internal-ai-chat)
-ChatGPT interno com Java, Spring Boot, OpenFeign e Groq API.
+###  [Internal AI Chat](https://github.com/Micaelatamir/internal-ai-chat)
+Internal ChatGPT-style assistant built with Java, Spring Boot, OpenFeign, Spring Security, PostgreSQL and Groq API (LLaMA 3.3 70B). Database containerized with Docker.
 
-### [Order Management API](https://github.com/Micaelatamir/order-management-api)
-API REST de gerenciamento de pedidos com Java e Spring Boot.
+###  [Order Management API](https://github.com/Micaelatamir/order-management-api)
+REST API for order management with user-product-order relationships. Built with Java, Spring Boot and PostgreSQL following clean layered architecture.
 
-### [Sistema de Login com Senha Criptografada](https://github.com/Micaelatamir/Sistema-de-Login-com-Senha-Criptografada)
-Autenticação segura com senha criptografada em Java.
+###  [Expense Tracker with Login](https://github.com/Micaelatamir/sistema-controle-despesas-com-login)
+Financial control system with user authentication and expense management in Java.
 
-### [Sistema Controle de Despesas](https://github.com/Micaelatamir/sistema-controle-despesas-com-login)
-Sistema de controle financeiro com login em Java.
+###  [Login System with Encrypted Password](https://github.com/Micaelatamir/Sistema-de-Login-com-Senha-Criptografada)
+Secure authentication system with encrypted passwords in Java.
 
-## 📊 Estatísticas
+---
+
+##  GitHub Stats
 
 <table>
   <tr>
     <td>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Micaelatamir&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas GitHub" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Micaelatamir&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Micaelatamir&layout=compact&langs_count=10&theme=tokyonight" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Micaelatamir&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-### 💌 Contato
+---
 
-- ✉ E-mail: micaela.tamir@gmail.com
-- 💼 [LinkedIn]https://www.linkedin.com/in/micaela-tamires-aa320b312/
-- 🌐 Portfólio https://micaelatamir.github.io/Meu-portiif-lio/
+##  Contact
+
+- ✉ Email: micaela.tamir@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/micaela-tamires-aa320b312/)
+- 🌐 [Portfolio](https://micaelatamir.github.io/Meu-portiif-lio/)
 
 ---
 
