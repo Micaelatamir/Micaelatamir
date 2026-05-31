@@ -43,18 +43,18 @@ Secure authentication system with encrypted passwords in Java.
 ---
 
 ##  GitHub Stats
-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Micaelatamir&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Micaelatamir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=00E5CC&icon_color=FF6B00" />
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Micaelatamir&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Micaelatamir&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=00E5CC" />
     </td>
   </tr>
 </table>
 
+<img src="https://streak-stats.demolab.com?user=Micaelatamir&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B00&currStreakLabel=A855F7&sideLabels=FF6B00&currStreakNum=00E5CC&sideNums=00E5CC&dates=666666" />
 ---
 
 ##  Contact
