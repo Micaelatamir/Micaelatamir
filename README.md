@@ -6,9 +6,11 @@
 
 ## About Me
 
-Backend developer focused on building REST APIs with **Java** and **Spring Boot**.
+Backend Developer focused on building scalable systems, software architecture, and robust backend solutions.
 
-I work with system modeling, layered architecture, and backend solutions with a focus on clean code, scalability, and software engineering best practices. Currently expanding my knowledge in **Cloud Computing** with AWS and containerization with Docker.
+Interested in software engineering, layered architecture, system design, cloud computing, and modern development practices. I strive to design well-structured applications with a strong emphasis on maintainability, performance, scalability, and code quality.
+
+Currently expanding my expertise in AWS, Docker, Kubernetes, and modern backend technologies while building projects that strengthen my ability to design, develop, and evolve software systems efficiently and reliably.
 
 ---
 
