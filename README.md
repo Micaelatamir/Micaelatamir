@@ -75,8 +75,8 @@ Secure authentication system with encrypted passwords in Java.
   </table>
 </p>
 
-##  Contact
-<p align="left">
+
+<p align="center">
   <a href="mailto:micaela.tamir@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF6B00?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
