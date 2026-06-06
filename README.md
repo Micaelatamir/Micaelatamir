@@ -61,19 +61,22 @@ Secure authentication system with encrypted passwords in Java.
   <p align="center">
 <img src="https://streak-stats.demolab.com?user=Micaelatamir&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B00&currStreakLabel=A855F7&sideLabels=FF6B00&currStreakNum=00E5CC&sideNums=00E5CC&dates=666666" />
 
-##  Contributions
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Micaelatamir/Micaelatamir/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micaelatamir&bg_color=0D1117&color=00E5CC&line=FF6B00&point=A855F7&area=true&hide_border=true&radius=8" />
 </p>
 
-
 ##  Contact
-
-- ✉ Email: micaela.tamir@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/micaela-tamires-aa320b312/)
-- 🌐 [Portfolio](https://micaelatamir.github.io/Meu-portiif-lio/)
-
----
+<p align="left">
+  <a href="mailto:micaela.tamir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF6B00?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/micaela-tamires-aa320b312/">
+    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://micaelatamir.github.io/Meu-portiif-lio/">
+    <img src="https://img.shields.io/badge/Portfolio-00E5CC?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+</p>
 
 
