@@ -64,7 +64,7 @@ Secure authentication system with encrypted passwords in Java.
 ##  Contributions
  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Micaelatamir/Micaelatamir/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Micaelatamir/Micaelatamir/output/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 
