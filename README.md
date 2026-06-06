@@ -14,7 +14,7 @@ Currently expanding my expertise in AWS, Docker, Kubernetes, and modern backend 
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-FF3B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-00C853?style=for-the-badge&logo=spring&logoColor=white)
