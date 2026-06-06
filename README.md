@@ -48,7 +48,9 @@ Secure authentication system with encrypted passwords in Java.
 ---
 
 ##  GitHub Stats
-<table>
+
+<p align="center">
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Micaelatamir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=00E5CC&icon_color=FF6B00" />
@@ -58,12 +60,19 @@ Secure authentication system with encrypted passwords in Java.
     </td>
   </tr>
 </table>
-  <p align="center">
-<img src="https://streak-stats.demolab.com?user=Micaelatamir&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B00&currStreakLabel=A855F7&sideLabels=FF6B00&currStreakNum=00E5CC&sideNums=00E5CC&dates=666666" />
+</p>
 
- 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micaelatamir&bg_color=0D1117&color=00E5CC&line=FF6B00&point=A855F7&area=true&hide_border=true&radius=8" />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micaelatamir&bg_color=0D1117&color=00E5CC&line=FF6B00&point=A855F7&area=true&hide_border=true&radius=8&width=460&height=260" />
+    </td>
+    <td valign="middle">
+      <img src="https://streak-stats.demolab.com?user=Micaelatamir&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B00&currStreakLabel=A855F7&sideLabels=FF6B00&currStreakNum=00E5CC&sideNums=00E5CC&dates=666666&card_width=550" />
+    </td>
+  </tr>
+</table>
 </p>
 
 ##  Contact
