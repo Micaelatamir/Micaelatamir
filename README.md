@@ -69,7 +69,7 @@ Secure authentication system with encrypted passwords in Java.
         <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Micaelatamir&bg_color=0D1117&color=00E5CC&line=FF6B00&point=A855F7&area=true&hide_border=true" />
       </td>
       <td>
-        <img width="600" src="https://streak-stats.demolab.com?user=Micaelatamir&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B00&currStreakLabel=A855F7&sideLabels=FF6B00&currStreakNum=00E5CC&sideNums=00E5CC&dates=666666" />
+        <img width="700" src="https://streak-stats.demolab.com?user=Micaelatamir&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B00&currStreakLabel=A855F7&sideLabels=FF6B00&currStreakNum=00E5CC&sideNums=00E5CC&dates=666666" />
       </td>
     </tr>
   </table>
