@@ -42,8 +42,7 @@ REST API for order management with user-product-order relationships. Built with 
 ###  [Expense Tracker with Login](https://github.com/Micaelatamir/sistema-controle-despesas-com-login)
 Financial control system with user authentication and expense management in Java.
 
-###  [Login System with Encrypted Password](https://github.com/Micaelatamir/Sistema-de-Login-com-Senha-Criptografada)
-Secure authentication system with encrypted passwords in Java.
+
 
 ---
 
