@@ -33,6 +33,9 @@ Currently expanding my expertise in AWS, Docker, Kubernetes, and modern backend 
 
 ## 📌 Featured Projects
 
+### [DevPulseApi](https://github.com/Micaelatamir/DevPulseApi)
+Infrastructure health monitoring API built from scratch with C#, ASP.NET Core .NET 10, PostgreSQL, Docker, Kubernetes and Railway. Layered architecture with automatic migrations on startup, running in production.
+
 ###  [Internal AI Chat](https://github.com/Micaelatamir/internal-ai-chat)
 Internal ChatGPT-style assistant built with Java, Spring Boot, OpenFeign, Spring Security, PostgreSQL and Groq API (LLaMA 3.3 70B). Database containerized with Docker.
 
