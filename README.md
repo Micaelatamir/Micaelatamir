@@ -1,82 +1,83 @@
 # Micaela Tamires
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Back--end%20Developer-000000?style=for-the-badge&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/Desenvolvedora%20Backend%20%7C%20Java%20%7C%20Python%20%7C%20IA-000000?style=for-the-badge&labelColor=000000&color=000000" />
 </p>
 
-## About Me
+## Sobre mim
 
-Backend Developer focused on building scalable systems, software architecture, and robust backend solutions.
+Desenvolvedora Backend com foco em APIs REST, aplicações backend, bancos de dados, automação e integração de Inteligência Artificial em sistemas.
 
-Interested in software engineering, layered architecture, system design, cloud computing, and modern development practices. I strive to design well-structured applications with a strong emphasis on maintainability, performance, scalability, and code quality.
+Desenvolvo aplicações com Java, Spring Boot e Python, usando arquitetura em camadas, bancos de dados relacionais e Docker, sempre com atenção a código limpo, manutenção e testes. Hoje meu trabalho está voltado a levar IA para aplicações reais: integrar LLMs em APIs, automatizar processos com Python e aplicar técnicas de Machine Learning para resolver problemas práticos.
 
-Currently expanding my expertise in AWS, Docker, Kubernetes, and modern backend technologies while building projects that strengthen my ability to design, develop, and evolve software systems efficiently and reliably.
+Estudante de Engenharia de Software no Centro Universitário Anhanguera.
 
 ---
 
-## Tech Stack
+## Tecnologias
 
-![Java](https://img.shields.io/badge/Java-FF3B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-00C853?style=for-the-badge&logo=spring&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+**Linguagens**
+
+![Java](https://img.shields.io/badge/Java-FF3B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-00C853?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Inteligência Artificial**
+
+![LLMs](https://img.shields.io/badge/LLMs-A855F7?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Integração com APIs de IA](https://img.shields.io/badge/Integração_com_APIs_de_IA-00E5CC?style=for-the-badge&logo=openai&logoColor=black)
+
+**Bancos de dados**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2979FF?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00ACC1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Ferramentas**
+
 ![Docker](https://img.shields.io/badge/Docker-00B0FF?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-FF1744?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-8E24AA?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6D00?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projetos em destaque
 
-### [DevPulseApi](https://github.com/Micaelatamir/DevPulseApi)
-Infrastructure health monitoring API built from scratch with C#, ASP.NET Core .NET 10, PostgreSQL, Docker, Kubernetes and Railway. Layered architecture with automatic migrations on startup, running in production.
+### [CV Match AI](https://github.com/Micaelatamir/cv-match-ai)
+API REST que analisa a compatibilidade entre um currículo e uma vaga, identifica as competências que faltam e gera sugestões de melhoria com LLM. Feita com Python, FastAPI, PostgreSQL, scikit-learn (TF-IDF) e Docker, com upload de PDF, script de automação em lote e CI com testes automatizados.
 
-###  [Internal AI Chat](https://github.com/Micaelatamir/internal-ai-chat)
-Internal ChatGPT-style assistant built with Java, Spring Boot, OpenFeign, Spring Security, PostgreSQL and Groq API (LLaMA 3.3 70B). Database containerized with Docker.
+### [Internal AI Chat](https://github.com/Micaelatamir/internal-ai-chat)
+Assistente interno no estilo ChatGPT, feito com Java, Spring Boot, OpenFeign, Spring Security, PostgreSQL e a API da Groq (LLaMA 3.3 70B). Banco de dados containerizado com Docker.
 
-###  [Order Management API](https://github.com/Micaelatamir/order-management-api)
-REST API for order management with user-product-order relationships. Built with Java, Spring Boot and PostgreSQL following clean layered architecture.
+### [Order Management API](https://github.com/Micaelatamir/order-management-api)
+API REST de gestão de pedidos com relacionamentos entre usuários, produtos e pedidos. Feita com Java, Spring Boot e PostgreSQL, seguindo arquitetura em camadas.
 
-###  [Expense Tracker with Login](https://github.com/Micaelatamir/sistema-controle-despesas-com-login)
-Financial control system with user authentication and expense management in Java.
-
-
+### [Controle de Despesas com Login](https://github.com/Micaelatamir/sistema-controle-despesas-com-login)
+Sistema de controle financeiro com autenticação de usuários e gestão de despesas em Java.
 
 ---
 
-##  GitHub Stats
+## Atividade no GitHub
 
 <p align="center">
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Micaelatamir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=00E5CC&icon_color=FF6B00" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Micaelatamir&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=00E5CC" />
-    </td>
-  </tr>
-</table>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Micaelatamir&bg_color=0D1117&color=00E5CC&line=FF6B00&point=A855F7&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Micaelatamir&bg_color=0D1117&color=00E5CC&line=FF6B00&point=A855F7&area=true&hide_border=true" />
-      </td>
-      <td>
-        <img width="700" src="https://streak-stats.demolab.com?user=Micaelatamir&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B00&currStreakLabel=A855F7&sideLabels=FF6B00&currStreakNum=00E5CC&sideNums=00E5CC&dates=666666" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=Micaelatamir&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B00&currStreakLabel=A855F7&sideLabels=FF6B00&currStreakNum=00E5CC&sideNums=00E5CC&dates=666666&locale=pt_BR" />
 </p>
 
+---
+
+## Contato
 
 <p align="center">
   <a href="mailto:micaela.tamir@gmail.com">
@@ -86,7 +87,7 @@ Financial control system with user authentication and expense management in Java
     <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://micaelatamir.github.io/Meu-portiif-lio/">
-    <img src="https://img.shields.io/badge/Portfolio-00E5CC?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfólio-00E5CC?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
 </p>
 
